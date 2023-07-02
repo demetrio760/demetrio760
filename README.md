@@ -6,6 +6,14 @@ I am looking forward to graduating from California State University San Bernardi
 
 In my spare time, I complete my own research with various home labs and work on certificates to further my learning such as FreeCodeCamp.
 
+Currently working on: 
+
+-Security+ Certification 
+
+-Certified Ethical Hacker Certification
+
+-FreeCodeCamp Front End Certificate
+
 Contact Info:
 
 -Email: demetriomarruffo66@gmail.com
