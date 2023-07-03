@@ -14,6 +14,18 @@ Currently working on:
 
 -FreeCodeCamp Front End Certificate
 
+Achievements:
+
+Future California State University San Bernardino B.S. in Information Technology with a concentration in Cybesecurity while achieving Dean's List
+
+Victor Valley College A.A. in Business Management while achieving Honor Roll
+
+California Promise Grant for proficient students who transferred from Community College
+
+FreeCodeCamp Responsive Web Design Certification
+
+FreeCodeCamp JavaScript Algorithms Certification 
+
 Contact Info:
 
 -Email: demetriomarruffo66@gmail.com
