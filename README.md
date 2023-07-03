@@ -16,15 +16,15 @@ Currently working on:
 
 Achievements:
 
-Future California State University San Bernardino B.S. in Information Technology with a concentration in Cybesecurity while achieving Dean's List
+-Future California State University San Bernardino B.S. in Information Technology with a concentration in Cybesecurity while achieving Dean's List
 
-Victor Valley College A.A. in Business Management while achieving Honor Roll
+-Victor Valley College A.A. in Business Management while achieving Honor Roll
 
-California Promise Grant for proficient students who transferred from Community College
+-California Promise Grant for proficient students who transferred from Community College
 
-FreeCodeCamp Responsive Web Design Certification
+-FreeCodeCamp Responsive Web Design Certification
 
-FreeCodeCamp JavaScript Algorithms Certification 
+-FreeCodeCamp JavaScript Algorithms Certification 
 
 Contact Info:
 
