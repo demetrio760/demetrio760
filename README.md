@@ -24,7 +24,7 @@ Achievements:
 
 -FreeCodeCamp Responsive Web Design Certification
 
--FreeCodeCamp JavaScript Algorithms Certification 
+-FreeCodeCamp JavaScript Algorithms and Data Structures Certification 
 
 Contact Info:
 
