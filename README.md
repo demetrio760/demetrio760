@@ -12,11 +12,9 @@ Currently working on:
 
 -Certified Ethical Hacker Certification
 
--FreeCodeCamp Front End Certificate
-
 Achievements:
 
--Future California State University San Bernardino B.S. in Information Technology with a concentration in Cybesecurity while achieving Dean's List
+-Future California State University San Bernardino B.S. in Information Technology with a concentration in Cybersecurity while achieving Dean's List
 
 -Victor Valley College A.A. in Business Management while achieving Honor Roll
 
@@ -24,7 +22,9 @@ Achievements:
 
 -FreeCodeCamp Responsive Web Design Certification
 
--FreeCodeCamp JavaScript Algorithms and Data Structures Certification 
+-FreeCodeCamp JavaScript Algorithms and Data Structures Certification
+
+-FreeCodeCamp Front End Development Libraries Certification 
 
 Contact Info:
 
