@@ -8,9 +8,9 @@ In my spare time, I complete my own research with various home labs and work on 
 
 Currently working on: 
 
--Security+ Certification 
-
 -Certified Ethical Hacker Certification
+
+-FreeCodeCamp Curriculum
 
 Achievements:
 
@@ -19,6 +19,8 @@ Achievements:
 -Victor Valley College A.A. in Business Management while achieving Honor Roll
 
 -California Promise Grant for proficient students who transferred from Community College
+
+-CompTIA Security+ Certification
 
 -FreeCodeCamp Responsive Web Design Certification
 
