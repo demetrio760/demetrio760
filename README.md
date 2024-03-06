@@ -1,10 +1,10 @@
-Hello, my name is Demetrio Jose Marruffo.
+Hello, my name is Demetrio Jose Marruffo III.
 
-I am a Cybersecurity and Software student who lives in Victorville, California.
+I am a Cybersecurity and Software researcher who lives in Victorville, California.
 
-I am looking forward to graduating from California State University San Bernardino with a Bachelor of Science in Information Technology with a concentration in Cybersecurity. 
+I graduated from California State University San Bernardino with a Bachelor of Science in Information Technology with a concentration in Cybersecurity with Cum Laude Honors. 
 
-In my spare time, I complete my own research with various home labs and work on certificates to further my learning such as FreeCodeCamp.
+In my spare time, I complete my research with various home labs and work on certificates to further my learning such as FreeCodeCamp, CompTIA, and Certified Ethical Hacker. 
 
 Currently working on: 
 
@@ -14,7 +14,7 @@ Currently working on:
 
 Achievements:
 
--Future California State University San Bernardino B.S. in Information Technology with a concentration in Cybersecurity while achieving Dean's List
+-California State University San Bernardino B.S. in Information Technology with a concentration in Cybersecurity while achieving Dean's List and Cum Laude Honors
 
 -Victor Valley College A.A. in Business Management while achieving Honor Roll
 
